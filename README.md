@@ -2,7 +2,7 @@
 
 [![Github All Releases](https://img.shields.io/github/downloads/01-Feli/WebhookSpammer-Rust/total?label=Github%20Downloads)]()
 
-A copy of my webhook spammer but using rust
+A copy of my webhook spammer but using rust - this is my first rust program
 
 # How to download
 
